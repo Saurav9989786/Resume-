@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="full">
+        <div class="left">
+            <div class="image">
+                <img src="C:\Users\DELL\Pictures\passport.jpeg" alt="gfg-logo" style="width: 100px; height: 100px;">
+
+            </div>
+            <div class="contact">
+                
+                <h2>contact</h2>
+                <p><b>Email id:</b> sauravkumar98765432@gmail.com</p>
+                <p><b>Mobile number:</b>7991174946</p>
+            </div>
+            <br>
+            <div class "Skills">
+                <h2>Skills</h2>
+                <ul>
+                    <li><b>programming languages:python,c++</b></li>
+                    <li><b>Frontented developer:Html,Css,javascript</b></li>
+
+                </ul>
+            </div>
+            <br>
+
+            <div class="Languages">
+                <h2>Languages</h2>
+                <ul>
+                    <li>English</li>
+                    <li>Hindi</li>
+                </ul>
+
+            </div>
+            <br>
+
+            <div class="Hobbies">
+                <h2>Hobbies</h2>
+                <ul>
+                    <li>Playing cricket</li>
+                    <li>Hodophlie</li>
+                </ul>
+            </div>
+        </div>
+        <br>
+
+        <div class="right">
+            <div class="name">
+                <h1>SAURAV KUMAR MAHTHA </h1>
+            </div>
+            <br>
+            <div class="title">
+                <p>Frontend Developer</p>
+                
+            </div>
+            <br>
+            <div class="Summary">
+                <h2>Summary</h2>
+                <p>To secure a challenging position in a reputable organization to expand my learning knowledge and skill</p>
+
+            </div>
+            <br>
+
+            <div class="Experience">
+                <h2>Experience</h2>
+                <h3>ready coder private limited-intern</h3>
+                <p> May to Auguest</p>
+                <ul>
+                    <li> Done a project using App development </li>
+                    <li>created a game touch me if you can with my team meamber</li>
+                    <br>
+                </ul>
+            </div>
+            <br>
+
+            <div class="Education">
+                <br>
+                <h2>EDUCATION</h2>
+                <table>
+                    <tr>
+                        <th>School/college</th>
+                        <th>passing year</th>
+                        <th>percentage/cgpa</th>
+                    </tr>
+                    <tr>
+                        <td>Jesus and marry </td>
+                        <td>2017</td>
+                        <td>9.4</td>
+                    </tr>
+                    <tr>
+                        <td> Galgotias university</td>
+                        <td>2024</td>
+                        <td>8.2</td>
+                    </tr>
+                </table>
+
+
+            </div>
+            <br>
+
+            <div class="project">
+                <ul>
+                    <l1>
+                        <h2>PROJECT 1</h2>
+                        <p>AGE AND GENDER PREDICTION USING OPEN CV</p>
+                        <P>This project is based on cnn model to predict the age and gender of person</P>
+                    </l1>
+                    <li>
+                        <h2>PROJECT 2</h2>
+                        <p>Creadit card fraud detection using machine learning</p>
+                        <p>This project is based upon emachine learning</p>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    
+</body>
+</html>
